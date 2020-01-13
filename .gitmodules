@@ -10,3 +10,6 @@
 [submodule "graz-social-network"]
 	path = graz-social-network
 	url = https://github.com/denklewer/graz-social-network
+[submodule "ray-RLlib-tutorial"]
+	path = ray-RLlib-tutorial
+	url = https://github.com/denklewer/ray-RLlib-tutorial
