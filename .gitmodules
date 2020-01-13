@@ -1,3 +1,9 @@
 [submodule "yandex-rl-tasks"]
 	path = yandex-rl-tasks
 	url = https://github.com/denklewer/yandex-rl-tasks
+[submodule "mlcourse.ai"]
+	path = mlcourse.ai
+	url = https://github.com/denklewer/mlcourse.ai
+[submodule "stepik-statistics"]
+	path = stepik-statistics
+	url = https://github.com/denklewer/stepik-statistics
