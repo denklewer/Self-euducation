@@ -7,3 +7,6 @@
 [submodule "stepik-statistics"]
 	path = stepik-statistics
 	url = https://github.com/denklewer/stepik-statistics
+[submodule "graz-social-network"]
+	path = graz-social-network
+	url = https://github.com/denklewer/graz-social-network
