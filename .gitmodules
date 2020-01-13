@@ -1,0 +1,3 @@
+[submodule "yandex-rl-tasks"]
+	path = yandex-rl-tasks
+	url = https://github.com/denklewer/yandex-rl-tasks
