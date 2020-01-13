@@ -13,3 +13,12 @@
 [submodule "ray-RLlib-tutorial"]
 	path = ray-RLlib-tutorial
 	url = https://github.com/denklewer/ray-RLlib-tutorial
+[submodule "epam-java-examples"]
+	path = epam-java-examples
+	url = https://github.com/denklewer/epam-java-examples
+[submodule "react-spring-example"]
+	path = react-spring-example
+	url = https://github.com/denklewer/react-spring-example
+[submodule "epam-java-cources"]
+	path = epam-java-cources
+	url = https://github.com/denklewer/epam-java-cources
