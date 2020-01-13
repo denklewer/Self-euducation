@@ -1,2 +1,2 @@
 # Self-euducation
-All the educational repos in my profile
+Projects which are related to online courses finished by me
