@@ -22,3 +22,6 @@
 [submodule "epam-java-cources"]
 	path = epam-java-cources
 	url = https://github.com/denklewer/epam-java-cources
+[submodule "elective"]
+	path = elective
+	url = https://github.com/denklewer/elective
